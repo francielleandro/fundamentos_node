@@ -12,7 +12,7 @@
 # Fundamentos NodeJs
 
 
-4° desafio do bootcamp GoStack - Criar uma aplicação que permita transações financeira, nela é possível realizar transações do tipo income e outcome, transações do tipo outcome só poderão ser realizadas em o saldo total for maior/igual ao valor de saque.
+5° desafio do bootcamp GoStack - Criar uma aplicação que permita transações financeira, nela é possível realizar transações do tipo income e outcome, transações do tipo outcome só poderão ser realizadas em o saldo total for maior/igual ao valor de saque.
 
 Essa aplicação foi construída utilizando nodejs em typscript, para instalar as dependências utilize o comando yarn.
 
